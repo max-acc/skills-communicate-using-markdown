@@ -1,6 +1,8 @@
 # <p align="center">Header ig or sth like that</p>
+## Embedding a picture
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+## Code Example
 The correct imports are import(ant).
 ```
 import time
@@ -28,3 +30,9 @@ def returnGetHeader (API_DATA, urlType, endUrl):
 
     return header
 ```
+## Embedding a task list
+Note: Specific format when used in issues.
+- [x] Step 1: Add a header
+- [x] Step 2: Embedding a picture
+- [x] Step 3: Code Example
+- [ ] Step 4: Task list  
